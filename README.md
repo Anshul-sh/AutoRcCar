@@ -1,0 +1,2 @@
+In summry, smart rc car is an neural network based project which can be scaled in various ways to fit requirments. Any one can easily drive car to collect data required for training phase. This data can then be computed to generate neural network model. Hence, making it
+capable to drive autonomusly. The accuracy of model directly proportional to provided error free data. Additionaly, red light detection, green light detection, stop sign detection and obstical detection makes rc car much more safe.
